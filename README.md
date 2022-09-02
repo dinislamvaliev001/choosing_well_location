@@ -1,4 +1,4 @@
-# choosing_a_location_for_a_well
+# choosing_well_location
 
 Выбор локации для скважины
 
